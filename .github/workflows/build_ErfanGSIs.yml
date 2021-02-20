@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://ip169852795.out.azhimalayanvh.com/Firmware/Flyme/meizu17_Pro/8.2.0.0/cn/20210125153524/dd40795f/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=16b9a2b2a84c5585e28f6600a590aa102608c1be1562aaa6&ali_redirect_ex_tmining_ts=1613828184&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
